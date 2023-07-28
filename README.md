@@ -1,3 +1,7 @@
+#React Resturant Home Page Screenshot
+<img width="1109" alt="react-resturant" src="https://github.com/mskabenda/react-resturant/assets/128099400/eb5386aa-b068-49e2-9401-e330bcde2397">
+
+
 # Getting Started with Create React App
 
 This menu was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
