@@ -1,0 +1,17 @@
+
+.footer {
+    height: 7vh;
+    background-color: #A23315;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    padding: 10px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)) drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+  }
+  

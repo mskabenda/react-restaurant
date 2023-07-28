@@ -1,0 +1,28 @@
+.menu {
+    width: 100%;
+    height: calc(100vh - 100px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .menu h1 {
+    margin-top: 50px;
+    color: #3e497a;
+    font-size: 35px;
+  }
+  .menu img {
+    width: 700px;
+    border-radius: 10px;
+  }
+  
+  .menu p {
+    font-size: 40px;
+    color: #3e497a;
+  }
+  
+  .menu svg {
+    font-size: 60px;
+    color: #3e497a;
+  }

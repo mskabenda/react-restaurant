@@ -1,0 +1,28 @@
+.navbar {
+    height: 7vh;
+    background-color:#A23315 ; 
+    color: white; 
+    display: flex; 
+    justify-content: center; 
+    padding: 10px; 
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)) drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  }
+  
+  .links {
+    display: flex; 
+  }
+  
+  .links a {
+    color: white; 
+    text-decoration: none;
+    margin: 0 30px;
+    font-size: 35px;
+  }
+  
+  .links a:hover {
+    background-color: white;
+    color: #333;
+    border-radius: 5px;
+    padding: 5px 10px;
+  }
+  
