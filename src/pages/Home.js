@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import dish4 from "../assets/dish4.jpg"; // Make sure the file extension is correct (e.g., dish4.jpg)
+import dish4 from "../assets/dish4.jpg"; 
 import "../styles/Home.css";
 
 const Home = () => {
